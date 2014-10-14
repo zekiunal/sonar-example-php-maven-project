@@ -7,7 +7,7 @@
 	<version>2.1</version>
     <packaging>pom</packaging>
 	
-	<build>
+    <build>
         <directory>build</directory>
         <sourceDirectory>application</sourceDirectory>
         <testSourceDirectory>tests</testSourceDirectory>
