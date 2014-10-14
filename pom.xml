@@ -27,7 +27,6 @@
 		<sonar.dynamicAnalysis>false</sonar.dynamicAnalysis>
 		<sonar.skipPackageDesign>true</sonar.skipPackageDesign>
 		<sonar.skipDesign>true</sonar.skipDesign>
-
     </properties>
 
 </project>
