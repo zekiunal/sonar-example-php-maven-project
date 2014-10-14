@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="Bootstrap.php">
+    <testsuites>
+
+        <testsuite name="RouterTest">
+            <directory>./RouterTest</directory>
+        </testsuite>
+
+        <testsuite name="ExampleTest">
+            <directory>./ExampleTest</directory>
+        </testsuite>
+
+    </testsuites>
+</phpunit>
